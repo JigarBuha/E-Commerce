@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/apple/Desktop/Jigar/Ecommerce/ProductCell.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/apple/Desktop/Jigar/Ecommerce/product.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/apple/Desktop/Jigar/Ecommerce/SubcategoryViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/apple/Desktop/Jigar/Ecommerce/CategoryListApi/Api Manager/JSON_Field.swift">
+   </FileRef>
+   <FileRef
+      location = "group:CategoryListApi.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
